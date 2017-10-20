@@ -8,14 +8,14 @@ Author: Alexander Vary
 ### A++ Code Reader
 Language: C++
 
-Relevant files: App.cpp, AppDriver.cpp, App.h
+Relevant files: App.cpp, AppDriver.cpp, App.h, inp.txt
 
 Purpose: To take "A++" code (basic psuedo-code) and execute it.
 
 ### PolyLine Project
 Language: C++
 
-Relevant Files: PolyLine.cpp, PolyLineDriver.cpp, PolyLine.h
+Relevant Files: PolyLine.cpp, PolyLineDriver.cpp, PolyLine.h, inp1.txt, inp2.txt, inp3.txt
 
 Purpose: Create an object that stores a sequence of connected coordinates, then allows operations to be done on this list.
 
