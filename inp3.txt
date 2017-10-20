@@ -1,0 +1,12 @@
+10 var alpha = 10
+15print alpha;
+20 var x15 = 15
+15 var c = 7;
+40 hello;
+60 print alpha + x15 % c;
+80 var result;
+85 result = alpha*x15 / c;
+90 print result;
+
+
+

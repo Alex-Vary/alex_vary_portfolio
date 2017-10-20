@@ -1,0 +1,10 @@
+<Point> <x> 40.0034 </x> <y> 10 </y> </Point>
+<Point> <x> -20.5 </x> <y> 20 </y> </Point>
+<Point>
+ <x> 10 </x> <y> 40 </y>
+</Point>
+<Point>
+ <x> -40 </x>
+ <y> +40 </y>
+</Point>
+<Point> <x> 30 </x> <y> 0 </y> </Point> 

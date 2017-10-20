@@ -1,0 +1,11 @@
+10 var alpha = 10;
+15 print alpha;
+20 var x15 = 15;
+30 var c = 7;
+40 if (alpha - x15) goto 80;
+60 print alpha + x15 % c;
+65 stop;
+80 var result;
+85 result = alpha*x15 / c;
+90 print result;
+99 stop;
