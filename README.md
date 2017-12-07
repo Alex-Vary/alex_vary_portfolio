@@ -1,4 +1,4 @@
-# riotgamesapplication
+# alex_vary_portfolio
 Assignments, both in C++ and Java, that represent my coding ability
 
 Author: Alexander Vary
